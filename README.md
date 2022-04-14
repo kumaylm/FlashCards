@@ -1,4 +1,4 @@
-# Study Flash Cards App
+# Flash Cards App
 ## Concepts Practiced
 - Create the User Interface (UI) with Tkinter
 - Create New Flash Cards
